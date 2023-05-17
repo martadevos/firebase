@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "534104368114",
+    "project_id": "piedra-papel-tijeras-dc476",
+    "storage_bucket": "piedra-papel-tijeras-dc476.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534104368114:android:a7bcb54b205c00a309416b",
+        "android_client_info": {
+          "package_name": "com.example.Piedra_Papel_Tijeras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534104368114-3vl9ttp389fkh1k1roetj55ch6fdl901.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCewDk_wsyxGLUC1-09UOoJxEfgG5uXh6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534104368114-3vl9ttp389fkh1k1roetj55ch6fdl901.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
